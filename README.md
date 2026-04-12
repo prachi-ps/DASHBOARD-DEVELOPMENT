@@ -4,7 +4,7 @@ An interactive Power BI dashboard built on a used cars dataset with 10,000 listi
 
 ---
 
-## Dashboard Preview
+## Dashboard Preview 
 
 <img width="1194" height="669" alt="Image" src="https://github.com/user-attachments/assets/0637f7ab-50bc-490f-8321-2feb913ae96f" />
 
