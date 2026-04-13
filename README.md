@@ -1,5 +1,18 @@
 # DASHBOARD DEVELOPMENT
 
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME: PRACHI SONONE
+
+INTERN ID: CTIS2104
+
+DOMAIN: DATA ANALYTICS
+
+DURATION: 16 WEEKS
+
+MENTOR: NEELA SANTHOSH KUMAR
+
+
 An interactive Power BI dashboard built on a used cars dataset with 10,000 listings. Covers selling price, fuel type, transmission, and manufacture year trends.
 
 ---
