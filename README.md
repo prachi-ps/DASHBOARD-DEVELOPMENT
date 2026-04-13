@@ -66,9 +66,9 @@ Shows how average selling price shifts across manufacture years (2000–2020). P
 
 Three slicers on the left panel let users slice the data interactively:
 
-- **Fuel Type** — CNG / Diesel / Petrol
-- **Seller Type** — Dealer / Individual
-- **Transmission** — Automatic / Manual
+- **Fuel Type** - CNG / Diesel / Petrol
+- **Seller Type** - Dealer / Individual
+- **Transmission** - Automatic / Manual
 
 ---
 
